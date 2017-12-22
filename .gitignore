@@ -96,3 +96,10 @@ freeglut/freeglut/.vs
 /freeglut/freeglut/build/freeglut.pc
 /freeglut/freeglut/build/CMakeCache.txt
 /freeglut/freeglut/build/cmake_install.cmake
+/freeglut/freeglut/build/Win32
+/freeglut/freeglut/build/*.dir
+/freeglut/freeglut/build/ipch
+/freeglut/freeglut/build/lib
+/freeglut/freeglut/build/bin
+/freeglut/freeglut/build/*.sdf
+/freeglut/freeglut/build/*.opensdf

@@ -806,8 +806,8 @@ int FGAPIENTRY glutCreateMenu( FGCBMenu callback )
     {
         return glutCreateMenuUcall( NULL, NULL );
     }
-    FGCBMenu* reference = &callback;
-    return glutCreateMenuUcall( fghCreateMenuCallback, *((FGCBUserData*)reference) );
+    //FGCBMenu* reference = &callback;
+    return glutCreateMenuUcall( fghCreateMenuCallback, *((FGCBUserData*)&callback) );
 }
 
 /*

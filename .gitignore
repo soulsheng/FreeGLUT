@@ -5,7 +5,6 @@ freeglut/freeglut/Makefile.in
 freeglut/freeglut/aclocal.m4
 freeglut/freeglut/autom4te.cache
 freeglut/freeglut/autoscan.log
-freeglut/freeglut/build
 freeglut/freeglut/build64
 freeglut/freeglut/compile
 freeglut/freeglut/config.guess
@@ -92,3 +91,8 @@ freeglut/freeglut/src/Makefile
 freeglut/freeglut/src/Makefile.in
 freeglut/freeglut/stamp-h1
 freeglut/freeglut/.vs
+/freeglut/freeglut/build/CMakeFiles
+/freeglut/freeglut/build/FreeGLUT
+/freeglut/freeglut/build/freeglut.pc
+/freeglut/freeglut/build/CMakeCache.txt
+/freeglut/freeglut/build/cmake_install.cmake

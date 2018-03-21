@@ -103,3 +103,5 @@ freeglut/freeglut/.vs
 /freeglut/freeglut/build/bin
 /freeglut/freeglut/build/*.sdf
 /freeglut/freeglut/build/*.opensdf
+/freeglut/freeglut/build/*.suo
+/freeglut/freeglut/build/x64
